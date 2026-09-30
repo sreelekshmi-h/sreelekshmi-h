@@ -39,12 +39,15 @@
 
 ### 🎬 Movie Recommendation Engine
 A content-based movie recommendation application using movie data and similarity search.
+[https://github.com/sreelekshmi-h/movie-recommendation-engine](url)
 
 ### 📚 NotePilot
 An AI-powered study assistant that uses RAG to answer questions from uploaded lecture notes.
+[https://github.com/sreelekshmi-h/note-piolet](url)
 
 ### 🤖 Agentic Personal Assistant
 A multi-agent system with specialized agents for calculations and research.
+[https://github.com/sreelekshmi-h/ai-personal-assistant](url)
 
 ### 🏠 ESP32 Smart Home
 An IoT project using ESP32, sensors and Blynk for monitoring and control.
