@@ -1,17 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Sree Lekshmi H
 
-<!--
-**sreelekshmi-h/sreelekshmi-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student  
+🤖 Interested in AI, Machine Learning & Embedded Systems  
+💻 Currently building projects and learning by doing
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img width="64" height="66" alt="Screenshot 2026-09-29 190749" src="https://github.com/user-attachments/assets/034d12ae-c5f0-488a-b766-1050aadc2965" />
+- 🤖 AI/ML projects
+- 🧠 Agentic AI applications
+- 📚 RAG-based applications
+- 🔌 ESP32 & IoT projects
+- 💻 Improving my programming and problem-solving skills
+
+## 🛠️ Technologies I'm Learning
+
+**Languages**
+- Python
+- C
+
+**AI / ML**
+- Machine Learning
+- RAG
+- LLM applications
+- ChromaDB
+
+**Development**
+- FastAPI
+- Streamlit
+- Git & GitHub
+
+**Embedded / IoT**
+- ESP32
+- Arduino
+- Blynk
+- Wokwi
+
+## 📌 Projects
+
+### 🎬 Movie Recommendation Engine
+A content-based movie recommendation application using movie data and similarity search.
+
+### 📚 NotePilot
+An AI-powered study assistant that uses RAG to answer questions from uploaded lecture notes.
+
+### 🤖 Agentic Personal Assistant
+A multi-agent system with specialized agents for calculations and research.
+
+### 🏠 ESP32 Smart Home
+An IoT project using ESP32, sensors and Blynk for monitoring and control.
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/sree-lekshmi-h/?isSelfProfile=true) 
