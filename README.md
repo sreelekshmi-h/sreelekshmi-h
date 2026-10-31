@@ -39,7 +39,7 @@
 
 ### 🎬 Movie Recommendation Engine
 A content-based movie recommendation application using movie data and similarity search.
-[https://github.com/sreelekshmi-h/movie-recommendation-engine](url)
+[movie-recommendation-engine](url)
 
 ### 📚 NotePilot
 An AI-powered study assistant that uses RAG to answer questions from uploaded lecture notes.
