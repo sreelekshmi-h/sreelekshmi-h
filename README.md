@@ -37,6 +37,10 @@
 
 ## 📌 Projects
 
+### 🍳 Recipe-Pilot
+AI-powered recipe assistant that helps users discover recipes, get cooking guidance, plan meals, and manage shopping lists using AI and RAG.
+[recipe-pilot](https://github.com/sreelekshmi-h/recipe-pilot)
+
 ### 🎬 Movie Recommendation Engine
 A content-based movie recommendation application using movie data and similarity search.
 [movie-recommendation-engine](https://github.com/sreelekshmi-h/movie-recommendation-engine)
